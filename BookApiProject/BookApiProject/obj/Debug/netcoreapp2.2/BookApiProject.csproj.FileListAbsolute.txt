@@ -1,0 +1,14 @@
+E:\ProjectsRawData\DotNetCoreSampleApplication\BookApiProject\BookApiProject\bin\Debug\netcoreapp2.2\BookApiProject.deps.json
+E:\ProjectsRawData\DotNetCoreSampleApplication\BookApiProject\BookApiProject\bin\Debug\netcoreapp2.2\BookApiProject.runtimeconfig.json
+E:\ProjectsRawData\DotNetCoreSampleApplication\BookApiProject\BookApiProject\bin\Debug\netcoreapp2.2\BookApiProject.runtimeconfig.dev.json
+E:\ProjectsRawData\DotNetCoreSampleApplication\BookApiProject\BookApiProject\bin\Debug\netcoreapp2.2\BookApiProject.dll
+E:\ProjectsRawData\DotNetCoreSampleApplication\BookApiProject\BookApiProject\bin\Debug\netcoreapp2.2\BookApiProject.pdb
+E:\ProjectsRawData\DotNetCoreSampleApplication\BookApiProject\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.csprojAssemblyReference.cache
+E:\ProjectsRawData\DotNetCoreSampleApplication\BookApiProject\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.csproj.CoreCompileInputs.cache
+E:\ProjectsRawData\DotNetCoreSampleApplication\BookApiProject\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.RazorAssemblyInfo.cache
+E:\ProjectsRawData\DotNetCoreSampleApplication\BookApiProject\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.RazorAssemblyInfo.cs
+E:\ProjectsRawData\DotNetCoreSampleApplication\BookApiProject\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.AssemblyInfoInputs.cache
+E:\ProjectsRawData\DotNetCoreSampleApplication\BookApiProject\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.AssemblyInfo.cs
+E:\ProjectsRawData\DotNetCoreSampleApplication\BookApiProject\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.RazorTargetAssemblyInfo.cache
+E:\ProjectsRawData\DotNetCoreSampleApplication\BookApiProject\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.dll
+E:\ProjectsRawData\DotNetCoreSampleApplication\BookApiProject\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.pdb
